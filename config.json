@@ -1,1 +1,1 @@
-{"dsn": "TestODBC", "uid": "test", "pwd": "test"}
+{"dsn": "test", "uid": "test", "pwd": "test", "table": "test"}

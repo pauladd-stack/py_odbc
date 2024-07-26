@@ -1,2 +1,6 @@
 virtual
 .env
+dist
+build
+odbc_gui.spec
+__pycache__
